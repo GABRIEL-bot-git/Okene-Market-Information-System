@@ -55,13 +55,13 @@ Open your browser and navigate to: http://localhost/cmpis/login.php
 
 To explore the different RBAC environments, use the following credentials:
 
-Role Username Password
+Role             Username    Password
 
-Administrator admin password123
+Administrator    admin       12345678
 
-Trader trader password123
+Trader           trader      12345678
 
-Farmer farmer password123
+Farmer           farmer      12345678
 
 (Note: In a production environment, all passwords are cryptographically hashed using PHP's password_hash() bcrypt algorithm).
 
